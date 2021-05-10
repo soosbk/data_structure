@@ -1,7 +1,7 @@
 import java.util.*;
 import java.util.Stack;
 // offset
-//soosbk
+//soosbk 나중에 개인포트폴리오로 활용될 소중한 자료입니다. 무단복제하지마세요
 
 class offset{
 	int a,b;
