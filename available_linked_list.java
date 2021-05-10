@@ -1,7 +1,9 @@
 import java.util.*;
 
+//나중에 개인 포트폴리오로 활용될 소중한 자료입니다. 무단복제 하지마세요
 /**
  * Generic version of the SortedList class.
+ soosbk
  */
 
 class SortedList <T extends Comparable<T> > {
