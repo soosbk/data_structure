@@ -1,7 +1,7 @@
 import java.util.*;
 
-// Name :
-// Student ID :
+// soosbk 나중에 개인 포트폴리오로 활용될 자료입니다. 무단복제 하지마세요
+// Binary Search Tree
 
 @SuppressWarnings("unchecked")
 class BST <T extends KeyValue> {
